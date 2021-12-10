@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiPavan-Tadem
-- 👀 I’m interested in Computer Vision and Machine Learning
+- 👀 I’m interested in Research (Computer Vision and Machine Learning)
 - 🌱 I’m currently learning Neural networks,data analytics,Image processing
 - 💞️ I’m looking to collaborate on computer vision projects
 - 📫 How to reach me : saipavanthadem@gmail.com
