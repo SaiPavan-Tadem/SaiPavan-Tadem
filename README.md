@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiPavan-Tadem
 - 👀 I’m interested in Research (Computer Vision,deep learning and Medical Image analysis)
 - 💞️ I’m looking to collaborate on computer vision projects
-- 📫 How to reach me : saipavanthadem@gmail.com
+- 📫 How to reach me : https://saipavan-tadem.github.io/
 
 <!---
 SaiPavan-Tadem/SaiPavan-Tadem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
