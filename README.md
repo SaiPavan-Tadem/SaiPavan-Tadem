@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SaiPavan-Tadem
-- 👀 I’m interested in Research (Statistics,Computer Vision,deep learning and Medical Image analysis)
-- 💞️ I’m looking to collaborate on AI+Healthcare projects
+- 👋 Hi, I’m Sai Pavan 
+- 👀 Research interests -> Statistics,Computer Vision,deep learning and Medical Image analysis
 - 📫  Reach me : https://saipavan-tadem.github.io/
 
 <!---
