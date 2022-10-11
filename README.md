@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sai Pavan 
-- 👀 Research interests -> Statistics,Computer Vision,deep learning and Medical Image analysis
+- 👀 Research interests -> Statistics,Computer Vision,deep learning and Healthcare
 - 📫  Reach me : https://saipavan-tadem.github.io/
 
 <!---
