@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sai Pavan
 
-![GitHub Banner]([https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile](https://github.com/SaiPavan-Tadem/SaiPavan-Tadem/blob/main/Code-A%20Studio.jpeg))
+![GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
 ## 👀 Research Interests
 - ![Statistics](https://img.shields.io/badge/Statistics-Expert-brightgreen)
